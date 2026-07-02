@@ -2,14 +2,13 @@
   <img src="https://github.com/Ankit.3k.png" width="80" style="border-radius:50%;" alt="Ankit Sangroula" />
   <h2>Ankit Sangroula</h2>
   <p>Aspiring Frontend Developer · Learning Web Development, One Step at a Time</p>
+
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ankit.3k)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-sangroula-640114371/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding Animation" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2557,100:f5a623&height=200&section=header&text=Ankit%20Sangroula&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 ### 👋 About Me
 - 🎓 College student, Bsc.CSIT
