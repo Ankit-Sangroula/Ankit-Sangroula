@@ -66,7 +66,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ankit-Sangroula&theme=transparent&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit-Sangroula3k&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit-Sangroula&theme=transparent" alt="GitHub Stats" />
 </div>
 
 <br/>
