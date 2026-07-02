@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2557,100:f5a623&height=180&section=header&text=Ankit%20Sangroula&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
 
 <br/>
 
@@ -46,7 +46,7 @@
 ## 🛠️ Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,tailwind,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,tailwind,bootstrap,figma,git,github" />
 </div>
 
 <br/>
@@ -66,7 +66,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ankit-Sangroula&theme=transparent&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit.3k&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit-Sangroula3k&theme=transparent" alt="GitHub Stats" />
 </div>
 
 <br/>
