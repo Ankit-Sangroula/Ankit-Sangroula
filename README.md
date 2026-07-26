@@ -7,7 +7,7 @@
  Learning Web Development, One Step at a Time <br/>
  🎓 College student, Bsc.CSIT
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit.3k)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit-Sangroula)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-sangroula-640114371/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
@@ -21,7 +21,7 @@
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ankit-Sangroula&theme=transparent&hide_border=true" alt="GitHub Streak" />
