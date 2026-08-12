@@ -1,69 +1,75 @@
 <div align="center">
 
-<img src="https://github.com/Ankit-Sangroula.png" width="125" alt="Ankit Sangroula"/>
+### ANKIT SANGROULA
 
-# ANKIT SANGROULA
+<img
+  src="https://github.com/Ankit-Sangroula.png"
+  width="120"
+  alt="Ankit Sangroula"
+/>
 
-### `WEB DEVELOPER` · `BSc. CSIT STUDENT`
+<img
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+  width="700"
+  alt="Dinosaur Game"
+/>
 
-**Building. Learning. Evolving.**
+### `LEARNING WEB DEVELOPMENT` · `BSc. CSIT STUDENT`
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&color=39D353&center=true&vCenter=true&repeat=true&width=500&lines=Building+projects;Trying+new+things;Learning+along+the+way;Improving+with+every+project"
+  alt="Animated Text"
+/>
 
 <br/>
 
 <a href="https://github.com/Ankit-Sangroula">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39D353"
+    alt="GitHub"
+  />
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/ankit-sangroula-640114371/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39D353"
+    alt="LinkedIn"
+  />
 </a>
 
 <br/><br/>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;Learning+Something+New+Every+Day;Turning+Ideas+Into+Projects;Future+Full-Stack+Developer"
-alt="Typing Animation"
-/>
 
 </div>
 
 ---
 
-<div align="center">
-
-### `01` — ABOUT
-
-</div>
+## ABOUT ME
 
 <table>
 <tr>
-<td width="60%">
 
-I'm a **BSc. CSIT student** focused on modern web development.
+<td width="60%" valign="middle">
 
-Currently working with the React ecosystem and moving toward **TypeScript, Next.js and full-stack development**.
+I'm **Ankit**, a BSc. CSIT student from Nepal, currently exploring web development.
 
-I learn primarily by building real projects, experimenting with new technologies, and improving with every iteration.
+I enjoy building **small projects, experimenting with ideas, and figuring out how things work**. I'm still learning and improving, with a focus on creating interfaces that are simple, useful, and enjoyable to use.
 
-<br/>
+I learn best by **building, making mistakes, solving problems, and improving with each project**.
 
-`LEARN` → `BUILD` → `BREAK` → `FIX` → `IMPROVE`
+`LEARN` → `BUILD` → `EXPERIMENT` → `IMPROVE`
 
 </td>
 
 <td width="40%" align="center">
 
 <img
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="350"
-alt="Developer coding"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="360"
+  alt="Developer coding"
 />
 
 </td>
+
 </tr>
 </table>
 
@@ -71,163 +77,82 @@ alt="Developer coding"
 
 <div align="center">
 
-### `02` — GITHUB ACTIVITY
-
-<br/>
-
 <img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=Ankit-Sangroula&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"
-alt="GitHub Stats"
-/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Sangroula&layout=compact&hide_border=true&theme=github_dark&langs_count=6"
-alt="Top Languages"
-/>
-
-<br/><br/>
-
-<img
-src="https://streak-stats.demolab.com?user=Ankit-Sangroula&theme=github-dark&hide_border=true"
-width="70%"
-alt="GitHub Streak"
+  src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"
+  width="900"
+  alt="Dinosaur Game"
 />
 
 </div>
 
 ---
 
-<div align="center">
-
-### `03` — CONTRIBUTION OVERVIEW
-
-<br/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit-Sangroula&theme=github_dark"
-width="95%"
-alt="GitHub Contribution Summary"
-/>
-
-<br/><br/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankit-Sangroula&theme=github_dark"
-width="45%"
-alt="Repositories per Language"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankit-Sangroula&theme=github_dark"
-width="45%"
-alt="Most Commit Language"
-/>
-
-</div>
-
----
+## GITHUB ACTIVITY
 
 <div align="center">
-
-### `04` — CURRENT FOCUS
-
-<br/><br/>
 
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center">
 
-### ⚛️
-
-**FRONTEND**
-
-React
-TypeScript
-Modern UI
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit-Sangroula&theme=github_dark"
+  height="165"
+  alt="GitHub Stats"
+/>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center">
 
-### ▲
-
-**NEXT**
-
-Next.js
-Architecture
-Performance
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankit-Sangroula&theme=github_dark"
+  height="165"
+  alt="Top Languages"
+/>
 
 </td>
 
-<td align="center" width="33%">
+</tr>
 
-### ◈
+<tr>
 
-**FULL STACK**
+<td align="center">
 
-APIs
-Backend
-Databases
+<img
+  src="https://streak-stats.demolab.com?user=Ankit-Sangroula&theme=transparent&hide_border=true"
+  height="165"
+  alt="GitHub Streak"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit-Sangroula&theme=github_dark"
+  width="500"
+  alt="GitHub Contribution Graph"
+/>
 
 </td>
 
 </tr>
 </table>
 
-<br/>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=HTML+%E2%86%92+CSS+%E2%86%92+JavaScript+%E2%86%92+React;React+%E2%86%92+TypeScript+%E2%86%92+Next.js;Next.js+%E2%86%92+Full-Stack+Development"
-alt="Development Journey"
-/>
-
 </div>
 
 ---
 
 <div align="center">
 
-### `05` — CURRENTLY BUILDING
-
-<br/>
-
 <img
-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-width="450"
-alt="Developer working"
+  src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"
+  width="100%"
+  alt="Keep Building"
 />
-
-<br/><br/>
-
-`WEB APPLICATIONS` · `SAAS` · `REAL-WORLD PROJECTS`
-
-<br/><br/>
-
-**Turning ideas into interfaces.
-Interfaces into products.**
-
-</div>
-
----
-
-<div align="center">
-
-<br/>
-
-### `— KEEP BUILDING —`
-
-<br/>
-
-<img
-src="https://komarev.com/ghpvc/?username=Ankit-Sangroula&style=for-the-badge&color=000000&label=PROFILE+VIEWS"
-alt="Profile Views"
-/>
-
-<br/><br/>
-
-`© ANKIT SANGROULA`
+### `KEEP BUILDING.`
+<sub>© 2026 ANKIT SANGROULA</sub>
 
 </div>
