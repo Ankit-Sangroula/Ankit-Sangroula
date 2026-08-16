@@ -17,7 +17,7 @@
 ### `LEARNING WEB DEVELOPMENT` · `BSc. CSIT STUDENT`
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&color=39D353&center=true&vCenter=true&repeat=true&width=500&lines=Building+projects;Trying+new+things;Learning+along+the+way;Improving+with+every+project"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&color=61AFEF&center=true&vCenter=true&repeat=true&width=500&lines=Building+projects;Trying+new+things;Learning+along+the+way;Improving+with+every+project"
   alt="Animated Text"
 />
 
@@ -25,14 +25,14 @@
 
 <a href="https://github.com/Ankit-Sangroula">
   <img
-    src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39D353"
+    src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=61AFEF"
     alt="GitHub"
   />
 </a>
 
 <a href="https://www.linkedin.com/in/ankit-sangroula-640114371/">
   <img
-    src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39D353"
+    src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=61AFEF"
     alt="LinkedIn"
   />
 </a>
@@ -97,7 +97,7 @@ I learn best by **building, making mistakes, solving problems, and improving wit
 <td align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit-Sangroula&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit-Sangroula&theme=onedark"
   height="165"
   alt="GitHub Stats"
 />
@@ -107,7 +107,7 @@ I learn best by **building, making mistakes, solving problems, and improving wit
 <td align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankit-Sangroula&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankit-Sangroula&theme=onedark"
   height="165"
   alt="Top Languages"
 />
@@ -121,7 +121,7 @@ I learn best by **building, making mistakes, solving problems, and improving wit
 <td align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=Ankit-Sangroula&theme=transparent&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Sangroula&theme=onedark&hide_border=true"
   height="165"
   alt="GitHub Streak"
 />
@@ -131,7 +131,7 @@ I learn best by **building, making mistakes, solving problems, and improving wit
 <td align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit-Sangroula&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit-Sangroula&theme=onedark"
   width="500"
   alt="GitHub Contribution Graph"
 />
@@ -152,7 +152,9 @@ I learn best by **building, making mistakes, solving problems, and improving wit
   width="100%"
   alt="Keep Building"
 />
+
 ### `KEEP BUILDING.`
+
 <sub>© 2026 ANKIT SANGROULA</sub>
 
 </div>
